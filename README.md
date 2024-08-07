@@ -38,4 +38,4 @@ Abra a pasta do projeto na sua IDE (No caso de teste, foi utilizado o Intelij ID
 
 ```Execute o teste em: src/test/java/WorldTest.java```
 
-O relatório em PDF está disponível aqui.
+O relatório em PDF está disponível [aqui](https://github.com/treepo1/Teste_Software_2024_Carvalho_Thiago/blob/main/Thiago_Freire_atividade_1.pdf).
